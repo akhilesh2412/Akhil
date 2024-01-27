@@ -3,13 +3,13 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000, AVERAGE-BANDWIDTH=800000, RESOLUTION=640x360 
-https://pixeldra.in/api/file/hur2ahgt
+https://pixeldra.in/api/file/hur2ahgt?type=m3u
 
 #EXT-X-STREAM-INF:BANDWIDTH=2500000, AVERAGE-BANDWIDTH=2000000, RESOLUTION=854x480 
-https://pixeldra.in/api/file/hur2ahgt
+https://pixeldra.in/api/file/hur2ahgt?type=m3u
 
 #EXT-X-STREAM-INF:BANDWIDTH=5000000, AVERAGE-BANDWIDTH=4000000, RESOLUTION=1280x720 
-https://pixeldra.in/api/file/PcmBkAUo
+https://pixeldra.in/api/file/PcmBkAUo?type=m3u
 
 #EXT-X-STREAM-INF: BANDWIDTH=8000000, AVERAGE-BANDWIDTH=6000000, RESOLUTION=1920x1080 
-https://pixeldra.in/api/file/hur2ahgt
+https://pixeldra.in/api/file/hur2ahgt?type=m3u
