@@ -1,68 +1,244 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="@techiesneh" generator-info-url="https://instagram.com/techiesneh">
+	
+		<display-name>Movies Special</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png"></icon>
+	</channel>
+	<channel id="ak121">
 
-  <channel id="Akmovies">
-    <display-name lang="en">Movie Special 24×7</display-name>
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <programme start="20230127000000 +0000" stop="20230127235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230128000000 +0000" stop="20230128235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230129000000 +0000" stop="20230129235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230130000000 +0000" stop="20230130235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230131000000 +0000" stop="20230131235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230201000000 +0000" stop="20230201235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230202000000 +0000" stop="20230202235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230203000000 +0000" stop="20230203235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230204000000 +0000" stop="20230204235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .</desc>
-  </programme>
-  <programme start="20230205000000 +0000" stop="20230205235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-  <programme start="20230206000000 +0000" stop="20230206235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-  <programme start="20230207000000 +0000" stop="20230207235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-  <programme start="20230208000000 +0000" stop="20230208235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-  <programme start="20230209000000 +0000" stop="20230209235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-  <programme start="20230210000000 +0000" stop="20230210235900 +0000" channel="CHN">
-    <title lang="en">AkhileshTV Movies Special</title>
-    <desc lang="en">Hanuman Sradon 1 Is running right now .(n)</desc>
-  </programme>
-</tv>
+    	<programme start="20240120183000 +0000" stop="20240120190000 +0000" channel="ak121" catchup-id="60977330">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120190000 +0000" stop="20240120193000 +0000" channel="ak121" catchup-id="60977325">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120193000 +0000" stop="20240120200000 +0000" channel="ak121" catchup-id="60977313">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120200000 +0000" stop="20240120203000 +0000" channel="ak121" catchup-id="60977303">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120203000 +0000" stop="20240120210000 +0000" channel="ak121" catchup-id="60977341">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120210000 +0000" stop="20240120213000 +0000" channel="ak121" catchup-id="60977346">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120213000 +0000" stop="20240120220000 +0000" channel="ak121" catchup-id="60977333">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120220000 +0000" stop="20240120223000 +0000" channel="ak121" catchup-id="60977319">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120223000 +0000" stop="20240120230000 +0000" channel="ak121" catchup-id="60977335">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120230000 +0000" stop="20240120233000 +0000" channel="ak121" catchup-id="60977326">
+		<title>Meditation Music</title>
+		<desc>Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D16BAC84D4EC510B6D02DA3E751FEA9E3F319FDN.jpg"></icon>
+	</programme>
+	<programme start="20240120233000 +0000" stop="20240121000000 +0000" channel="ak121" catchup-id="60977307">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121000000 +0000" stop="20240121003000 +0000" channel="ak121" catchup-id="60977336">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121003000 +0000" stop="20240121010000 +0000" channel="ak121" catchup-id="60977306">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121010000 +0000" stop="20240121013000 +0000" channel="ak121" catchup-id="60977311">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121013000 +0000" stop="20240121020000 +0000" channel="ak121" catchup-id="60977320">
+		<title>Live Class - Yoga</title>
+		<desc>Live sessions with the best trainers only on Tata Play Fitness.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4458CA57E093139AFBE2695E9A1ED4E1B9D4C551X.jpg"></icon>
+	</programme>
+	<programme start="20240121020000 +0000" stop="20240121023000 +0000" channel="ak121" catchup-id="60977343">
+		<title>Live Class - Workout</title>
+		<desc>Live sessions with the best trainers only on Tata Play Fitness.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/164501A8777513EF923D6CACF58E635381CF94A2O.jpg"></icon>
+	</programme>
+	<programme start="20240121023000 +0000" stop="20240121030000 +0000" channel="ak121" catchup-id="60977314">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121030000 +0000" stop="20240121033000 +0000" channel="ak121" catchup-id="60977316">
+		<title>Conscious Living</title>
+		<desc>Living consciously means being aware of your thoughts and your actions, your habits, and your reactions.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2EE680F6BF0783D58989CE1482C16EDFB94B453L.jpg"></icon>
+	</programme>
+	<programme start="20240121033000 +0000" stop="20240121040000 +0000" channel="ak121" catchup-id="60977321">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121040000 +0000" stop="20240121043000 +0000" channel="ak121" catchup-id="60977308">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121043000 +0000" stop="20240121050000 +0000" channel="ak121" catchup-id="60977344">
+		<title>Diet &amp; Nutrition</title>
+		<desc>Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ED1339C2329357C6BA60F8AF7C7001142C8A9F7Z.jpg"></icon>
+	</programme>
+	<programme start="20240121050000 +0000" stop="20240121053000 +0000" channel="ak121" catchup-id="60977323">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121053000 +0000" stop="20240121060000 +0000" channel="ak121" catchup-id="60977304">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121060000 +0000" stop="20240121063000 +0000" channel="ak121" catchup-id="60977340">
+		<title>Diet &amp; Nutrition</title>
+		<desc>Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ED1339C2329357C6BA60F8AF7C7001142C8A9F7Z.jpg"></icon>
+	</programme>
+	<programme start="20240121063000 +0000" stop="20240121070000 +0000" channel="ak121" catchup-id="60977305">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121070000 +0000" stop="20240121073000 +0000" channel="ak121" catchup-id="60977342">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121073000 +0000" stop="20240121080000 +0000" channel="ak121" catchup-id="60977301">
+		<title>Diet &amp; Nutrition</title>
+		<desc>Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ED1339C2329357C6BA60F8AF7C7001142C8A9F7Z.jpg"></icon>
+	</programme>
+	<programme start="20240121080000 +0000" stop="20240121083000 +0000" channel="ak121" catchup-id="60977302">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121083000 +0000" stop="20240121090000 +0000" channel="ak121" catchup-id="60977327">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121090000 +0000" stop="20240121093000 +0000" channel="ak121" catchup-id="60977300">
+		<title>Diet &amp; Nutrition</title>
+		<desc>Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ED1339C2329357C6BA60F8AF7C7001142C8A9F7Z.jpg"></icon>
+	</programme>
+	<programme start="20240121093000 +0000" stop="20240121100000 +0000" channel="ak121" catchup-id="60977331">
+		<title>Yoga With Ritu Adhikari</title>
+		<desc>Tone your body and increase your flexibility with our 30 minute yoga session.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E85DD36A4307A83C5DC2ACB5B681E58C72433493L.jpg"></icon>
+	</programme>
+	<programme start="20240121100000 +0000" stop="20240121103000 +0000" channel="ak121" catchup-id="60977328">
+		<title>Workout - Rebekah Starchan</title>
+		<desc>A 30 minute workout session is all that is needed to stay fit &amp; in shape.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EECC7F2E3DD5CF5DE90B9E01993A84E6EECBB8EDP.jpg"></icon>
+	</programme>
+	<programme start="20240121103000 +0000" stop="20240121110000 +0000" channel="ak121" catchup-id="60977332">
+		<title>Fit &amp; Famous - Adah Sharma</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness regime</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AC3E6060E1BD0BC8FD4FE055047656346A9D58FH.jpg"></icon>
+	</programme>
+	<programme start="20240121110000 +0000" stop="20240121113000 +0000" channel="ak121" catchup-id="60977338">
+		<title>Meri Jung - Poppy Jabbal</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness Journey</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13BD5D435645E05ADE4625C8C5D01F02B282D9A20.jpg"></icon>
+	</programme>
+	<programme start="20240121113000 +0000" stop="20240121120000 +0000" channel="ak121" catchup-id="60977317">
+		<title>Fit &amp; Famous - Adah Sharma</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness regime</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AC3E6060E1BD0BC8FD4FE055047656346A9D58FH.jpg"></icon>
+	</programme>
+	<programme start="20240121120000 +0000" stop="20240121123000 +0000" channel="ak121" catchup-id="60977309">
+		<title>Meri Jung - Poppy Jabbal</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness Journey</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13BD5D435645E05ADE4625C8C5D01F02B282D9A20.jpg"></icon>
+	</programme>
+	<programme start="20240121123000 +0000" stop="20240121130000 +0000" channel="ak121" catchup-id="60977310">
+		<title>Fit &amp; Famous - Adah Sharma</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness regime</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AC3E6060E1BD0BC8FD4FE055047656346A9D58FH.jpg"></icon>
+	</programme>
+	<programme start="20240121130000 +0000" stop="20240121133000 +0000" channel="ak121" catchup-id="60977345">
+		<title>Meri Jung - Poppy Jabbal</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness Journey</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13BD5D435645E05ADE4625C8C5D01F02B282D9A20.jpg"></icon>
+	</programme>
+	<programme start="20240121133000 +0000" stop="20240121140000 +0000" channel="ak121" catchup-id="60977337">
+		<title>Live Class - Yoga</title>
+		<desc>Live sessions with the best trainers only on Tata Play Fitness.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4458CA57E093139AFBE2695E9A1ED4E1B9D4C551X.jpg"></icon>
+	</programme>
+	<programme start="20240121140000 +0000" stop="20240121143000 +0000" channel="ak121" catchup-id="60977322">
+		<title>Live Class - Workout</title>
+		<desc>Live sessions with the best trainers only on Tata Play Fitness.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/164501A8777513EF923D6CACF58E635381CF94A2O.jpg"></icon>
+	</programme>
+	<programme start="20240121143000 +0000" stop="20240121150000 +0000" channel="ak121" catchup-id="60977318">
+		<title>Fit &amp; Famous - Adah Sharma</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness regime</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AC3E6060E1BD0BC8FD4FE055047656346A9D58FH.jpg"></icon>
+	</programme>
+	<programme start="20240121150000 +0000" stop="20240121153000 +0000" channel="ak121" catchup-id="60977329">
+		<title>Conscious Living</title>
+		<desc>Living consciously means being aware of your thoughts and your actions, your habits, and your reactions.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2EE680F6BF0783D58989CE1482C16EDFB94B453L.jpg"></icon>
+	</programme>
+	<programme start="20240121153000 +0000" stop="20240121160000 +0000" channel="ak121" catchup-id="60977315">
+		<title>Fit &amp; Famous - Adah Sharma</title>
+		<desc>Indulge in one to one coversation with famous celebrities to know their fitness regime</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AC3E6060E1BD0BC8FD4FE055047656346A9D58FH.jpg"></icon>
+	</programme>
+	<programme start="20240121160000 +0000" stop="20240121163000 +0000" channel="ak121" catchup-id="60977312">
+		<title>Meri Jung - Poppy Jabbal</title>
+		<desc>Meri Jung - Poppy Jabbal</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/F1C72B9733A19A8551C706E8BE454CAC385791FC0.jpg"></icon>
+	</programme>
+	<programme start="20240121163000 +0000" stop="20240121170000 +0000" channel="ak121" catchup-id="60977347">
+		<title>Anvita Dixit - Meditation Challenge</title>
+		<desc>30 minute of guided meditation which will help you stay calm, improve focus and sleep well.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/569C1DC14FAFAF9BCA74E48A86B1D2CE5EDFFC4BZ.jpg"></icon>
+	</programme>
+	<programme start="20240121170000 +0000" stop="20240121173000 +0000" channel="ak121" catchup-id="60977339">
+		<title>Focus On Five Elements - Neha Sareen</title>
+		<desc>30 minute of guided meditation which will help you stay calm, improve focus and sleep well.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FBA5F61535D9F756B236054D1667D73AF1318F2Y.jpg"></icon>
+	</programme>
+	<programme start="20240121173000 +0000" stop="20240121180000 +0000" channel="ak121" catchup-id="60977334">
+		<title>Anvita Dixit - Meditation Challenge</title>
+		<desc>30 minute of guided meditation which will help you stay calm, improve focus and sleep well.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/569C1DC14FAFAF9BCA74E48A86B1D2CE5EDFFC4BZ.jpg"></icon>
+	</programme>
+	<programme start="20240121180000 +0000" stop="20240121183000 +0000" channel="ak121" catchup-id="60977324">
