@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="@techiesneh" generator-info-url="https://instagram.com/techiesneh">
 	
-		<display-name>Movies Special</display-name>
-		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png"></icon>
+			<channel id="ak121">
+		<display-name>Tata Play Fitness</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png"></icon>
 	</channel>
-	<channel id="ak121">
 
     	<programme start="20240120183000 +0000" stop="20240120190000 +0000" channel="ak121" catchup-id="60977330">
 		<title>Meditation Music</title>
