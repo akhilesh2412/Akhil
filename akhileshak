@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "IPL 2024",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  },
+  {
+    "id": 2,
+    "title": "Mumbai Indians",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  },
+  {
+    "id": 3,
+    "title": "RCB",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  },
+  {
+    "id": 4,
+    "title": "C Super Kings",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  },
+  {
+    "id": 5,
+    "title": "Rajasthan",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  },
+  {
+    "id": 6,
+    "title": "Gujrat Titans",
+    "category": "Sports",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+  }
+]
