@@ -3,36 +3,36 @@
         "id": 1,
         "title": "IPL 2024",
         "category": "Sports",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+        "src": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
     },
     {
         "id": 2,
         "title": "Mumbai Indians",
         "category": "Sports",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL150_.jpg"
+        "src": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL150_.jpg"
     },
     {
         "id": 3,
         "title": "RCB",
         "category": "Sports",
-        "image": "https://fakestoreapi.com/img/81fPKd-2YL._AC_SL1500_.jpg"
+        "src": "https://fakestoreapi.com/img/81fPKd-2YL._AC_SL1500_.jpg"
     },
     {
         "id": 4,
         "title": "C Super Kings",
         "category": "Sports",
-        "image": "https://fakestoreapi.com/img/81fPKd-YL._AC_SL1500_.jpg"
+        "src": "https://fakestoreapi.com/img/81fPKd-YL._AC_SL1500_.jpg"
     },
     {
         "id": 5,
         "title": "Rajasthan",
         "category": "Sports",
-        "image": "https://fakestoreapi.com/img/81d-2AYL._AC_SL1500_.jpg"
+        "src": "https://fakestoreapi.com/img/81d-2AYL._AC_SL1500_.jpg"
     },
     {
         "id": 6,
         "title": "Gujrat Titans",
         "category": "Sports",
-        "image": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png"
+        "src": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png"
     }
 ]
