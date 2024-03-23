@@ -18,7 +18,7 @@
 		"category": "Sports",
 		"images": [
 			{
-				"url": "https://www.dropbox.com/scl/fi/bh7a9b37344yxe26hcdn1/20240224_211523.png?rlkey=36zkdu8accwl32jqwnh5ez476&dl=1",
+				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
 				"color": "#4F8196",
 				"link" : "http://tv.cloudcdn.me/live.ts?channelId=287&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test"
 			}
