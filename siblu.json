@@ -14,13 +14,13 @@
 
 	{
 		"id": 2,
-		"name": "Willow Hindi",
+		"name": "IPL English",
 		"category": "Sports",
 		"images": [
 			{
 				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
 				"color": "#4F8196",
-				"link" : "http://tv.cloudcdn.me/live.ts?channelId=287&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test"
+				"link" : "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1230324/master.m3u8"
 			}
 		]
 	},
