@@ -96,5 +96,18 @@
 				"link" : "https://tinyurl.com/ThankYouSoMuchAstroCricket"
 			}
 		]
+	},
+
+{
+		"id": 8,
+		"name": "Seades Hindi Original",
+		"category": "Movie",
+		"images": [
+			{
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFqd9LD8PEUogBKcM0KfPUuwRx2VH5XcRm7TiBpuuLl_fB95feukG9nfm&s=10",
+				"color": "#E8E8E8",
+				"link" : "https://pixeldra.in/api/file/1qkNmvYm?download"
+			}
+		]
 	}
 ]
