@@ -5,47 +5,47 @@
 		"category": "Movie",
 		"images": [
 			{
-				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+				"url": "https://i.postimg.cc/BnRT5bvn/Vikram-Movie.jpg",
 				"color": "#272727",
-				"link" : "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/8R_l0_KinQxF-yQ1QgZWuNFolJcUm2N4XQMiRgC1CQKOnkN82tbeGOaK1QmZRjYUOj3K7989WEbFvvVKsWHAAQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live"
+				"link" : "https://pixeldra.in/api/file/srvGYKxU"
 			}
 		]
 	},
 
 	{
 		"id": 2,
-		"name": "Jai Bheem",
+		"name": "Drishyam 2",
 		"category": "Movie",
 		"images": [
 			{
-				"url": "https://www.dropbox.com/scl/fi/bh7a9b37344yxe26hcdn1/20240224_211523.png?rlkey=36zkdu8accwl32jqwnh5ez476&dl=1",
+				"url": "https://i.postimg.cc/d1Z1Sh7C/Drishyam-2-Movie.jpg",
 				"color": "#4F8196",
-				"link" : "http://tv.cloudcdn.me/live.ts?channelId=287&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test"
+				"link" : "https://pixeldra.in/api/file/zeJwyNRt"
 			}
 		]
 	},
 
 	{
 		"id": 3,
-		"name": "Baahubali",
-		"category": "Sports",
+		"name": "Kaithi South Hindi Dubbed",
+		"category": "Movie",
 		"images": [
 			{
-				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
+				"url": "https://i.postimg.cc/j5B6dXCs/Kaithi-Movie.jpg",
 				"color": "#E8E8E8",
-				"link" : "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8"
+				"link" : "https://pixeldra.in/api/file/qrnqQVdZ"
 			}
 		]
 	},
 	{
 		"id": 4,
-		"name": "Star Sports",
-		"category": "Sports",
+		"name": "LGM South Hindi Dubbed",
+		"category": "Movie",
 		"images": [
 			{
-				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+				"url": "https://i.postimg.cc/MpnyLKy6/LGM-Movie.jpg",
 				"color": "#2C88B3",
-				"link" : "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8"
+				"link" : "https://pixeldra.in/api/file/bf21X1Sm"
 			}
 		]
 	}
