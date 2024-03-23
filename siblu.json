@@ -72,17 +72,5 @@
 				"link" : "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1230324/master.m3u8"
 			}
 		]
-	},
-{
-		"id": 7,
-		"name": "IPL (Cricket)",
-		"category": "Sports",
-		"images": [
-			{
-				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-5lvgJrdbYZ_KFwxX9EfyjkH1vUvU0xElVR0L5lpg4TbX1NWxpBfAas&s=10",
-				"color": "#2C88B3",
-				"link" : "http://tv.cloudcdn.me/live.ts?channelId=287&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test"
-			}
-		]
 	}
 ]
