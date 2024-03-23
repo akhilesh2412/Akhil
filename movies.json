@@ -61,43 +61,6 @@
 			}
 		]
 	},
-	{
-		"id": 6,
-		"name": "Kaitfghi South Hindi Dubbed",
-		"category": "Movie",
-		"images": [
-			{
-				"url": "https://i.postimg.cc/j5B6dXCs/Kaithi-Movie.jpg",
-				"color": "#E8E8E8",
-				"link" : "https://pixeldra.in/api/file/qrnqQVdZ"
-			}
-		]
-	},
-	{
-		"id": 7,
-		"name": "Kaitcvhi South Hindi Dubbed",
-		"category": "Movie",
-		"images": [
-			{
-				"url": "https://i.postimg.cc/j5B6dXCs/Kaithi-Movie.jpg",
-				"color": "#E8E8E8",
-				"link" : "ns:resolve?domain=akhil"
-			}
-		]
-	},
-	{
-		"id": 8,
-		"name": "Kaithvvi South Hindi Dubbed",
-		"category": "Movie",
-		"images": [
-			{
-				"url": "https://i.postimg.cc/j5B6dXCs/Kaithi-Movie.jpg",
-				"color": "#E8E8E8",
-				"link" : "https://tinyurl.com/ThankYouSoMuchAstroCricket"
-			}
-		]
-	},
-
 {
 		"id": 8,
 		"name": "Seades Hindi Original",
