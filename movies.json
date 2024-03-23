@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Vikram 2012",
-		"category": "Sports",
+		"category": "Movie",
 		"images": [
 			{
 				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
@@ -15,7 +15,7 @@
 	{
 		"id": 2,
 		"name": "Jai Bheem",
-		"category": "Sports",
+		"category": "Movie",
 		"images": [
 			{
 				"url": "https://www.dropbox.com/scl/fi/bh7a9b37344yxe26hcdn1/20240224_211523.png?rlkey=36zkdu8accwl32jqwnh5ez476&dl=1",
