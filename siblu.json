@@ -5,7 +5,7 @@
 		"category": "Sports",
 		"images": [
 			{
-				"url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGPODXBRB9-0nXVC2E4LacA97PwhO66weLqeT-dLHCD7B_3_gQvjDCqk&s=10",
 				"color": "#272727",
 				"link" : "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/8R_l0_KinQxF-yQ1QgZWuNFolJcUm2N4XQMiRgC1CQKOnkN82tbeGOaK1QmZRjYUOj3K7989WEbFvvVKsWHAAQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live"
 			}
