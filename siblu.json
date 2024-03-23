@@ -7,7 +7,7 @@
 			{
 				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGPODXBRB9-0nXVC2E4LacA97PwhO66weLqeT-dLHCD7B_3_gQvjDCqk&s=10",
 				"color": "#272727",
-				"link" : "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/8R_l0_KinQxF-yQ1QgZWuNFolJcUm2N4XQMiRgC1CQKOnkN82tbeGOaK1QmZRjYUOj3K7989WEbFvvVKsWHAAQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live"
+				"link" : "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1230324/master.m3u8"
 			}
 		]
 	},
