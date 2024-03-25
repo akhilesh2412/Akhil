@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Vikram Hindi Dubbed 2012",
+		"category": "Movie",
+		"images": "https://i.postimg.cc/BnRT5bvn/Vikram-Movie.jpg",
+		"link" : "https://pixeldra.in/api/file/srvGYKxU"
+	},
+
+	{
+		"id": 2,
+		"name": "Drishyam 2 Hindi Original",
+		"category": "Movie",
+		"images": "https://i.postimg.cc/d1Z1Sh7C/Drishyam-2-Movie.jpg",
+		"link" : "https://pixeldra.in/api/file/zeJwyNRt"
+	},
+
+	{
+		"id": 3,
+		"name": "Kaithi South Hindi Dubbed",
+		"category": "Movie",
+		"images": "https://i.postimg.cc/j5B6dXCs/Kaithi-Movie.jpg",
+		"link" : "https://pixeldra.in/api/file/qrnqQVdZ"
+},
+	{
+		"id": 4,
+		"name": "LGM South Hindi Dubbed",
+		"category": "Movie",
+		"images": "https://i.postimg.cc/MpnyLKy6/LGM-Movie.jpg",
+		"link" : "https://pixeldra.in/api/file/bf21X1Sm"
+			}
+]
