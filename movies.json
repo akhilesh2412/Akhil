@@ -1,0 +1,154 @@
+[
+    {
+      "channel": "Hindi",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
+    },
+    {
+      "channel": "English",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
+    },
+    {
+      "channel": "Haryanvi",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/1472bd73a6094d0e9e30cdfd615225a2/master.m3u8"
+    },
+    {
+      "channel": "Bhojpuri",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8"
+    },
+    {
+      "channel": "Gujarati",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a700a944e65a4cab872a606916d994f8/master.m3u8"
+    },
+    {
+      "channel": "Punjabi",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/bcc8f8d422bb4fdabe310a1e69056c04/master.m3u8"
+    },
+    {
+      "channel": "Tamil",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8"
+    },
+    {
+      "channel": "Telugu",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/96d74327e4714f49b78a82329a8ab414/master.m3u8"
+    },
+    {
+      "channel": "Kannada",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/31ee83696bc04e449c76e3c2211ebc4b/master.m3u8"
+    },
+    {
+      "channel": "Bengali",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/49bf9a5c837243c09d72043b7fa2a530/master.m3u8"
+    },
+    {
+      "channel": "Malayalam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/89a75f3be9f64596a4f33da70a1b604a/master.m3u8"
+    },
+    {
+      "channel": "Marathi",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/eb5f992469d84cdc992ec94df7e590e1/master.m3u8"
+    },
+    {
+      "channel": "Insiders",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8"
+    },
+    {
+      "channel": "Hangout",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/3533142cda074c078afc16bf1bc5c75b/master.m3u8"
+    },
+    {
+      "channel": "Hero Cam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8"
+    },
+    {
+      "channel": "Batter Cam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8"
+    },
+    {
+      "channel": "Stump Cam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8"
+    },
+    {
+      "channel": "Birds Eye Cam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8"
+    },
+    {
+      "channel": "Split Cam",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8"
+    },
+       {
+      "channel": "Hindi 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8"
+    },
+    {
+      "channel": "English 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8"
+    },
+    {
+      "channel": "Haryanvi 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/c714425e406c4be486e914f4062a9810/master.m3u8"
+    },
+    {
+      "channel": "Bhojpuri 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8"
+    },
+    {
+      "channel": "Gujarati 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/581c6c71e5004210bca553832217dd73/master.m3u8"
+    },
+    {
+      "channel": "Punjabi 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/f6c2ee7b4b984c38925752716ed62ed3/master.m3u8"
+    },
+    {
+      "channel": "Tamil 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/41d6a16977e942e8ae41cba1ae182a69/master.m3u8"
+},
+    {
+      "channel": "Telugu 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/476d87131bcd4ccf97e554bbe5e5fed7/master.m3u8"
+    },
+    {
+      "channel": "Kannada 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/b33f972cd1544a69963269d8fe70715c/master.m3u8"
+    },
+    {
+      "channel": "Bengali 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/9035c52af31f45f7a14223f77b70d84d/master.m3u8"
+    },
+    {
+      "channel": "Malayalam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/604578267cfa4dab9a02700efac705ee/master.m3u8"
+    },
+    {
+      "channel": "Marathi 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/e0874dd24f674a20b8554a10a244c6c1/master.m3u8"
+    },
+    {
+      "channel": "Insiders 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/82d7c37dc9ba4ad3ab7966194bee1385/master.m3u8"
+    },
+    {
+      "channel": "Hangout 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/b03529f8c0154d29ac5a225d78c6d65a/master.m3u8"
+    },
+    {
+      "channel": "Hero Cam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/5a74ceb567cd49e6ba8b1ebf2fdfec69/master.m3u8"
+    },
+    {
+      "channel": "Batter Cam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/d7648a7014b34333a4074a6efafcb19f/master.m3u8"
+    },
+    {
+      "channel": "Stump Cam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/b789111ea8854f8db2dc545541484f27/master.m3u8"
+    },
+    {
+      "channel": "Birds Eye Cam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8"
+    },
+    {
+      "channel": "Split Cam 4K",
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8"
+    }  
+ ]
