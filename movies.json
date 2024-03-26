@@ -12,13 +12,13 @@
     {
       "channel": "Jio Cricket Live",
       "logo": "https://v3img.voot.com/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8"
+      "link": "https://cricket-live241203.netlify.app/jiocricket.html"
     },
 
 {
       "channel": "Sports 18 Khel HD Live",
       "logo": "https://v3img.voot.com/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",
-      "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8"
+      "link": "https://cricket-live241203.netlify.app/sports18.html"
     },
     {
       "channel": "Sports 18 HD Cricket Live",
@@ -28,6 +28,6 @@
     {
       "channel": "Cricket Live HD Live",
        "logo": "https://images.slivcdn.com/landscape_thumb/Sony_TEN5HD_23oct_landscape_thumb.jpg",     
-       "link": "https://cricket-live241203.netlify.app/sonyten5.html"
+       "link": "https://cricket-live241203.netlify.app/skysports.html"
     }  
  ]
