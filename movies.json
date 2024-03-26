@@ -1,21 +1,21 @@
 [
     {
-      "channel": "Star Sports Live",
+      "channel": "Star Sports 1 Hd Hindi Live",
       "logo": "https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1171/661171-h",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
      {
-      "channel": "Star Sports ",
+      "channel": "Sony Ten 1 HD Live",
       "logo": "https://images.slivcdn.com/landscape_thumb/Sony_TEN1HD_23oct_landscape_thumb.jpg",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183b210ff4df/master.m3u8"
     },
     {
-      "channel": "Jio Cricket",
+      "channel": "Jio Cricket Live",
       "logo": "https://v3img.voot.com/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8"
     },
     {
-      "channel": "Split Cam 4K",
+      "channel": "Star Sports 2 HD Live",
        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",     
        "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8"
     }  
