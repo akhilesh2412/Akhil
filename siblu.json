@@ -7,27 +7,27 @@
     {
       "channel": "Hindi",
           "logo": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-rajasthan-royals-vs-delhi-capitals-0-2024-3-22-t-6-39-19.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1270324/master.m3u8"
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
     {
       "channel": "English",
           "logo": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-rajasthan-royals-vs-delhi-capitals-0-2024-3-22-t-6-39-19.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1270324/master.m3u8"
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
     },
     
        {
       "channel": "Hindi 4K",
              "logo": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-rajasthan-royals-vs-delhi-capitals-0-2024-3-22-t-6-39-19.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1270324/index.m3u8"
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
     {
       "channel": "English 4K",
           "logo": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-rajasthan-royals-vs-delhi-capitals-0-2024-3-22-t-6-39-19.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1270324/index.m3u8"
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
     },
     {
       "channel": "Bhojpuri IPL",
           "logo": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-rajasthan-royals-vs-delhi-capitals-0-2024-3-22-t-6-39-19.jpg",
-      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8"
+      "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8"
     }  
  ]
