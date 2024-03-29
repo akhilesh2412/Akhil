@@ -1,33 +1,33 @@
 [
 {
       "channel": "Hindi Ad-free",
-      "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
     {
       "channel": "Hindi",
-          "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
     {
       "channel": "English",
-          "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
     },
     
        {
       "channel": "Hindi 4K",
-             "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
     },
     {
       "channel": "English 4K",
-          "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
     },
     {
       "channel": "Bhojpuri IPL",
-          "logo": "https://i.ibb.co/Vxw8k3G/download.jpg",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBOu8Ip_eYQvXTm8wtMyeyfOcMBo__Y9FztT4wkSpvUhLwcLCOH48oT4&s=10",
       "link": "https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8"
     }  
  ]
