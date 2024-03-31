@@ -1,5 +1,16 @@
 
-
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<p>You will be redirected to the example website in 1 seconds.</p>
+<script>
+window.location.href = "https://t.me/tech2world_official";
+</script>
+</html>
+<noscript>
+<p>This page requires JavaScript to function properly.</p>
+</noscript>
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
