@@ -1,4 +1,6 @@
 
+
+
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 
@@ -8,38 +10,48 @@
 https://dl17.genyoutube.online/mates/en/download?url=ZTREjvNyOeQ5AMiWv29uYDXy8itUU4RITufTQaQYk1cqfAMnY1iGOaH0WQ4chnZnpLQqjo24nlhPiPgrgvHbOTKL9o1Y/gdq3%2BGCyQm6VhfR4xCl3Tyt9ccrGWpO8bzmjBcstpZvdMU%3D
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.youtube.com/vi/nV4vZo6A-Ak/maxresdefault.jpg" group-title="AkhileshTV",Dhruv Raathe Videos 
-https://www.dropbox.com/scl/fi/qefnhts1pad9nb4nmm5z6/y2mate.com-Ladakh-in-Danger-Where-is-the-Media-Sonam-Wangchuk-Dhruv-Rathee_1080p.mp4?rlkey=teld58n9do4gapztuc65khk49&dl=1
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2105
+#EXTINF:-1 tvg-id="ts24" group-title="AkhileshTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVgLLJdvpUxQ6LsPPf6Pz7u0KyQsQOLEHUcM5MiN5Nyq_q4oAf4am3llH&s=10",IPL Live Special
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVgLLJdvpUxQ6LsPPf6Pz7u0KyQsQOLEHUcM5MiN5Nyq_q4oAf4am3llH&s=10" group-title="AkhileshTV", IPL Hindi Ad-free Live
+https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CKxPmM7oZS1K1c4eRTcLFyCjOf5iG9ymrt-ocR9JeVsbavL2AzzYYH5m&s=10" group-title="AkhileshTV", IPL Live
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1250324/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7RTeiYIxEyQkoWJBJ-qfmf8sF8WQgIs_ImHuT-AI4Nn83g71ugr3rYA&s=10" group-title="AkhileshTV",The Great Indian Kapil Show 
+https://pixeldra.in/api/file/CT5oLchd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.youtube.com/vi/dd8l2IZJaPU/maxresdefault.jpg" group-title="AkhileshTV",Dhruv Raathe Videos 
 https://www.dropbox.com/scl/fi/r50yjt63q1rw90jrjy1u8/y2mate.com-Farmers-vs-Modi-The-Truth-about-Farmers-Protest-20-Dhruv-Rathee_1080p.mp4?rlkey=z6br0iguq9epjmlr2lsbme4lq&dl=1
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2105
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://img.buzzfeed.com/buzzfeed-static/static/2015-04/20/6/enhanced/webdr07/anigif_original-8143-1429524977-4.gif", IPL Live (HD)
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=824
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-b5374c99e3e81cbb30b5dfdb5f52e85c",Cricket Live (ad-free)
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67X1JAxQuw0wmfBwZbYC8Ko-CP0VZEAWhj0lAW_nb_bBEeNWOrhpJxBE&s=10", IPL Adfree (English)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bestmediainfo.com/uploads/2023/03/1679633690.WPL.gif" group-title="AkhileshTV",WPL Live 
-http://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_wpl_s1_m1170324/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26XxkAsaryudopCfapb-JXsi4XolxDMGvZRXq4PDZJnq6BBL1NSLu1OI&s=10" group-title="AkhileshTV", IPL Hindi Live 
+https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://64.media.tumblr.com/09d37a7b54651f0c2b9c3960add00b59/tumblr_nkmd7nAYPo1tlqk9xo2_500.gif" group-title="AkhileshTV",Movies Live 
-http://xtv.ooo:8080/69543966/70998087/362983
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tenor.com/IH8kE8h5SAcAAAAe/svsc-telugu.png" group-title="AkhileshTV",South Movie Live 
-http://xtv.ooo:8080/69543966/70998087/362986
 
 #EXTINF:-1 tvg-id="ts236" tvg-logo="https://media.tenor.com/caJ887j0IVkAAAAM/shraddha-kapoor-tjmm.gif" group-title="AkhileshTV",Hindi Songs 
 http://xtv.ooo:8080/rahul-29052022/hybrid-29052022/270492
 
-#EXTINF:-1 tvg-id="ts236" tvg-logo="https://i.pinimg.com/originals/be/a2/78/bea27891e8e672a3fca507bb02ec8552.gif" group-title="AkhileshTV",Live Oggy & Cockroach 
-http://xtv.ooo:8080/69543966/70998087/308282
-
-#EXTINF:-1 tvg-id="ts236" tvg-logo="https://gifdb.com/images/high/tom-and-jerry-cute-forehead-kiss-th4oovdonc30r10c.gif" group-title="AkhileshTV",Live Tom & Jerry 
-http://xtv.ooo:8080/69543966/70998087/329247
 
 
 #EXTINF:-1 tvg-id="43" tvg-logo="https://img.mensxp.com/media/content/2018/Apr/gif-2-1523023528.gif" group-title="Special Channels",The Kapil Sharma Show 24×7
@@ -47,6 +59,170 @@ http://xtv.ooo:8080/rahul-29052022/hybrid-29052022/342075
 
 #EXTINF:-1 tvg-id="43" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTtWSSSeRheyxy-RlS6NfD720HG9qpTTxGg&usqp=CAU" group-title="Special Channels",Baalveer 24×7
 http://xtv.ooo:8080/rahul-29052022/hybrid-29052022/340809
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq3TkBgG/The-Wages-of-Fear-Movie.jpg" group-title="AkhileshTV",The Wages of Fear (2024)
+https://pub-ec3e36d8e7604fcb9e677b4dff445e84.r2.dev/The%20Wages%20of%20Fear%202024%20Dual%20Audio%20[Hindi%20+%20English]%20Full%20Movie%20HD%201080p%20ESub%20-%20FilmyCab.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQjjm78/Heart-of-the-Hunter-Movie.jpg" group-title="AkhileshTV",Heart of the Hunter (2024)
+https://steep-butterfly-741d.sifor796752386.workers.dev/93aefe4ddd7ab7e5a99a28cd6ce1f931ed3586f7db41fcb0a919170b042f42b0ccbc88b50f66c29bad78c19fcbcd2bcd::a77f0616280dc8f859a0d0b6cfd6b5b4/1396582839/Heart%20of%20the%20Hunter%20(2024)%20Dual%20Audio%20[Hindi%20+%20English]%20Full%20Movie%20HD%201080p%20ESub%20-%20FilmyCab.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYb8wVWZ/Atharva-Movie.jpg" group-title="AkhileshTV",Atharva (2023)
+https://files.dolic45578.workers.dev/cb2d9b7013c2ae867509c27d30ec5312a9847028678ecb7a161700e972e2a9a9f05541f9d6afa324decc72372b9515e3::66f93a0bb19d9ed2a11292da87b6d502/1396582839/Atharva%20(2023)%20Dual%20Audio%20[Hindi%20+%20Telugu]%20Full%20Movie%20HD%201080p%20ESub%20-%20FilmyCab.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09TOEq0SJgyqtnApDaPinhtfvtQwSclCVXz8ir9ulJqujiFU26Srnuk0&s=10" group-title="AkhileshTV",Khakee: The Bihar Chapter(2022)
+https://pixeldra.in/api/file/p4Pe59ew?download
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtdfsZ4r/Godzilla-x-Kong-The-New-Empire-Movie.jpg" group-title="AkhileshTV",Godzilla x Kong The New Empire(2024)
+https://pixeldra.in/api/file/p4Pe59ew?download
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGJZ5Nqg/Aadujeevitham-The-Goat-Life-Movie.jpg" group-title="AkhileshTV",Aadujeevitham The Goat Life (2024)
+https://pixeldra.in/api/file/motkj145?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y6mWHwG/Crew-Movie.jpg" group-title="AkhileshTV",Crew (2024)
+https://pixeldra.in/api/file/bANQsSVc?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvQL5jLv/Woh-Bhi-Din-The-Movie.jpg" group-title="AkhileshTV",Woh Bhi Din The (2024)
+https://pixeldra.in/api/file/qz6RM3RH?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtgR2sb9/Patna-Shukla-Movie.jpg" group-title="AkhileshTV",Patna Shukla (2024)
+https://pixeldra.in/api/file/USPysZBf?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1yQwgd9/Inspector-Rishi-S1.jpg" group-title="AkhileshTV",Inspector Rishi (2024)
+https://pixeldra.in/api/file/xmBMzqKM?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx3FwhDS/Maamla-Legal-Hai-S1.jpg" group-title="AkhileshTV",Maamla Legal Hai(2022)
+https://pixeldra.in/api/file/3KcNuj1G?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ91m0rm/Don-Movie.jpg" group-title="AkhileshTV",Don (2022)
+https://pixeldra.in/api/file/TaA1k6af?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx7D2cn1/Carrie-Movie.jpg" group-title="AkhileshTV",Carrie (2013)
+https://pixeldra.in/u/UqgqTobn
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2BYR24V/The-Mexican-Movie.jpg" group-title="AkhileshTV",The Mexican (2001)
+https://pixeldra.in/api/file/vLcWKP8o?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzv2S6Rq/No-1-Dilwala-Movie.jpg" group-title="AkhileshTV",No 1 Dilwala (2017)
+https://pixeldra.in/api/file/tU5B3DUe?download
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NNq84Sn/Haseen-Dillruba-Movie.jpg" group-title="AkhileshTV",Haseen Dillruba (2021)
+https://pixeldra.in/api/file/UeNTinqP?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NNq84Sn/Haseen-Dillruba-Movie.jpg" group-title="AkhileshTV",Haseen Dillruba (2021)
+https://pixeldra.in/api/file/UeNTinqP?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY675m6w/The-Digital-Thief-Movie.jpg" group-title="AkhileshTV",The Digital Theif (2017)
+https://pixeldra.in/api/file/AVAqbfw4?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpXvZ9y5/Abbayitho-Ammayi-Movie.jpg" group-title="AkhileshTV",Abbayitho Ammayi (2016)
+https://pixeldra.in/api/file/H9HELtN6?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyxC8bkb/Mr-Majnu-Movie.jpg" group-title="AkhileshTV",Mr Majnu(2019)
+https://pixeldra.in/api/file/1BLZug3i?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6BDwJCj/joker-Movie.jpg" group-title="AkhileshTV",Joker (2019)
+https://pixeldra.in/api/file/JLG511m6?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLmXL9KQ/Lover-Movie.jpg" group-title="AkhileshTV",Lover (2024)
+https://pixeldra.in/api/file/AXSWWFBu?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqgmn192/Interstellar-Movie.jpg" group-title="AkhileshTV",Interstellar (2014)
+https://pixeldra.in/api/file/Wa8isWDL?download
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k2y7q5d/Good-Boys-Movie.jpg" group-title="AkhileshTV",Good Boys (2015)
+https://pixeldra.in/api/file/PSn65Qor?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRy4HM3/The-Classified-File-Movie.jpg" group-title="AkhileshTV",The Classified File (2015)
+https://pixeldra.in/api/file/7e2nMFyJ?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fsz3hm7/Man-of-Men-Movie.jpg" group-title="AkhileshTV",Man of Men (2024)
+https://pixeldra.in/api/file/yUovPLZ7?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ7ghxj0/Road-House-Movie.jpg" group-title="AkhileshTV",Road House (2024)
+https://pixeldra.in/api/file/zLz2TkTv?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTkQFgV7/Super-Over-Movie.jpg" group-title="AkhileshTV",Super Over (2021)
+https://pixeldra.in/api/file/DpCLUzY2?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMjV4bRJ/Argylle-Movie.jpg" group-title="AkhileshTV",Argylle (2024)
+https://pixeldra.in/api/file/1dfXqYHm?download
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTrhysvP/Madgaon-Express-Movie.jpg" group-title="AkhileshTV",Madgaon Express (2022)
+https://pixeldra.in/api/file/uMwuJHdT?download
+
+
+#EXTINF:-1 tvg-id="ts236" tvg-logo="https://i.postimg.cc/Jn1Dhdfz/3-Body-Problem-S1.jpg" group-title="AkhileshTV",3 Body Problem S01
+https://pixeldra.in/api/file/uMwuJHdT?download
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://i.postimg.cc/d1YGNdpK/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Movie.jpg" group-title="Special Channels",Teri Baaton Mein Aisa Uljha Jiya (2024)
+https://worker-damp-lab-732e.wr64.workers.dev/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X09UWTBNXzE1X18zMF9fMjNfWkRWXzE1X1lfMTVfSl8xNV9ORF82NF9fMzBfWV81NV9JMU1fMjhfVTFOR0k1TURFXzI4X1lfMjhfQl84X04ySV8zNF9fODNfXzE1X0lfMzRfWkdWMkwxTjBfOTFfM0pfNjBfWlMwd01fMjNfOV8xNV9fOTFfRzkxWkRfMTFfXzI2X1FXUl82NV9fOTlfVzRfMjZfWl81NV85Xzg4X1pHVl8yM19NUzlVWlhKXzg3X0xVSl84X1lYUl8yNl9fOTFfXzRfMU5aV180N19fMzRfTFVGXzg3X184M18yRV82NV9WV18xN19fOTdfXzk5X0dFXzY1X1NfNTVfXzQ3XzVZUzBfNjJfTV8xNV9BXzIzX05DXzMwX182NV9RXzU1XzlfODhfXzkxX0hfNDdfM185MV8yOV8zMF9MVV84X184N19fOTFfXzU1X1JfODdfS0VSRU5TNF8xN19MVEU1TV8zMF9fNjVfXzRfXzgzX0hNXzg3X0xVMV8yNl9fNjRfXzU1X180N19fNDdfTFVfOF9FTFRFd09EQndMVVZUXzY0X1dJXzM0X185MV9XXzY1XzI=
+
+
+
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/L6zm7zFx/Ae-Watan-Mere-Watan-Movie.jpg" group-title="Movies",Ae Watan Mere Watan(2024)
+https://worker-quiet-truth-a003.wr5.workers.dev/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X09UWTBNXzE1X18zMF9fMjNfWkRWXzE1X1lfMTVfSl8xNV9ORF82NF9fMzBfWV81NV9JMU1fMjhfVTFOR0k1TURFXzI4X1lfMjhfQl84X04ySV8zNF9fODNfXzE1X0lfMzRfWkdWMkwxTjBfOTFfM0pfNjBfWlMwd01fMjNfOV8xNV9fOTFfRzkxWkRfMTFfXzI2X1FXUl82NV9fOTlfVzRfMjZfWl81NV85Xzg4X1pHVl8yM19NUzlCWlMxWFlYUl84X185MV9fNF8xTlpYSl80N19MVl82NF9fOF9fNjRfR0ZfMzRfTFNfMTFfXzIzX01ESTBLUzFDXzkxXzJfMTdfXzg4X180NV9YXzY0X18yNl9fOTFfMlFfNjVfU0dfNDdfXzM0X1pHXzMwX182Ml9SRVExTF8xNV9FXzY1X01UXzMwX18yM19TMkp3XzgzX18yM19fMzBfXzY1X1RXOTJfOTlfV1VfNjVfU0VRXzY1X01UQTRNSEFfNjVfUlZOMVlfNF81XzY1X185OV8zWT0=
+
+
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiejfHwDC3EmvKupPJJYI07TaecUM6Z4yG8Bq4VU0j6XjxK0VVT-Qi9XG&s=10" group-title="Movies",Venom 2 (2021)
+https://hubloud-downloadcdn.vi-isp.workers.dev/12dc1ef26b49b4cccdd56035f2595ab7487f07fc04685bb3b1ad757d89f17e4105067d83e981b4c07982fddaea0659bf::37557a5bb9d5d5be44d0896ee1294b92/1396582149/Venom.Let.There.Be.Carnage.2021.2160p.WEB-DL.HEVC.[Hindi%20AAC%205.1%20-%20Eng%20DD%205.1]-MSubs~%20moviesdrives.com.mkv
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNv9Qhbwfx1agySlLpl4LU_UAE50DbwRR_mH_g-18wym6ye_dWtk3ms8&s=10" group-title="Movies",Venom (2018)
+https://pixeldra.in/api/file/pCCF9wuv?download
+
+
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/9FhHzzQ6/Fighter-Movie.jpg" group-title="Movies",Fighter (2024)
+https://worker-round-term-ed75.wr83.workers.dev/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X09UWTBNXzE1X18zMF9fMjNfWkRWXzE1X1lfMTVfSl8xNV9ORF82NF9fMzBfWV81NV9JMU1fMjhfVTFOR0k1TURFXzI4X1lfMjhfQl84X04ySV8zNF9fODNfXzE1X0lfMzRfWkdWMkwxTjBfOTFfM0pfNjBfWlMwd01fMjNfOV8xNV9fOTFfRzkxWkRfMTFfXzI2X1FXUl82NV9fOTlfVzRfMjZfWl81NV85Xzg4X1pHVl8yM19NUzlHXzk5X1dfNjRfXzYyX182NF9HVl8yM19MU18xMV9fMjNfTURJMEtTMUNfOTFfMl8xN19fODhfXzQ1X1hfNjRfXzI2X185MV8yUV82NV9TR180N19fMzRfWkdfMzBfXzYyX1JFUTFMXzE1X0VfNjVfTVRfMzBfXzIzX1MySndfODNfXzIzX18zMF9fNjVfVFc5Ml85OV9XVV82NV9TRVFfNjVfTVRBNE1IQV82NV9SVk4xWV80XzVfNjVfXzk5XzNZPQ==
+
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.imgur.com/lJByxOu.png" group-title="Movies",Naruto: Shippuden (Season 1 – Anime Series) 
+https://pixeldra.in/api/file/zqUrkoWx?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.imgur.com/lJByxOu.png" group-title="Movies",Naruto: Shippuden (Season 1 – Anime Series) 
+https://pixeldra.in/api/file/WiJAedX7?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/90p5wN4y/Mean-Girls-Movie.jpg" group-title="Movies",Mean Girls(2024) 
+https://pixeldra.in/api/file/dRAFtvWT?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/hvf0dSr9/Remo-Movie.jpg" group-title="Movies",Remo (2016) 
+https://pixeldra.in/api/file/me8iRbGi?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/wMj22xTf/Abraham-Ozler-Movie.jpg" group-title="Movies",Abraham Ozler (2024) 
+https://pixeldra.in/api/file/NpFRBEQj?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/Jnx4b7yY/Time-Story-Movie.jpg" group-title="Movies",Time Story (2016) 
+https://pixeldra.in/api/file/GgQgRc8k?download
+
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/L5LrMFm9/Battery-Movie.jpg" group-title="Movies",Battery (2024) 
+https://pixeldra.in/api/file/HqXrqUiE?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/YS626c6c/Bob-Marley-One-Love-Movie.jpg" group-title="Movies",Bob Marley Love  (2024) 
+https://pixeldra.in/api/file/nN2sU1um?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/vT1Rrh0V/Don-t-Buy-the-Seller-Movie.jpg" group-title="Movies",Don’t Buy the Seller (2023) 
+https://pixeldra.in/api/file/b855DXZw?download
+
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/25kQm1TP/Iron-Reign-S1.jpg" group-title="Movies",Iron Reign (2024)
+https://pixeldra.in/api/file/giLo3Mcs?download
 
 #EXTINF:-1 tvg-id=ts139 tvg-logo="https://i.postimg.cc/GtXKWMP1/Hanuman-Movie.jpg" group-title="Movies",Hanuman (2024)
 https://pixeldra.in/api/file/C2BjcFjH?download
