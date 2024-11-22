@@ -26,5 +26,37 @@ https://live.drmlive-02.workers.dev/jc/1998.m3u8
 #EXTINF:-1 tvg-id="ts24" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/iwo1mnr6c7szofwhh39nq/20241012_200451.png?rlkey=ya33sdnhe5semuhx2qotr9ztx&st=ldbx6vyz&dl=1", Cricket Live 3
 
 
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/2se7xha966twh0h027sn9/IMG_20241112_193249_550.jpg?rlkey=ieo3fe5lmpw0s7c6cj2zn0bpo&st=1mwp3281&dl=1",Fox Sports Live
 
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/2se7xha966twh0h027sn9/IMG_20241112_193249_550.jpg?rlkey=ieo3fe5lmpw0s7c6cj2zn0bpo&st=1mwp3281&dl=1",BGT {हिन्दी} Live
+https://vkvsd70.okcdn.ru/cmaf/7352464509671/sig/gycaV0kI_eQ/expires/1732332208963/srcIp/223.177.172.9/urls/185.226.52.93/clientType/13/srcAg/CHROME_ANDROID/mid/8622454746087/get/dash_8622454746087.jClvLVzhzp4.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXs2Ek2N5OdRPf3AvAwWQlGvSfBxRzeEfYyENZ7sk2l1NZG22KLg8D9w8&s=10",Cricket {English}
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXs2Ek2N5OdRPf3AvAwWQlGvSfBxRzeEfYyENZ7sk2l1NZG22KLg8D9w8&s=10",Cricket Live 
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXs2Ek2N5OdRPf3AvAwWQlGvSfBxRzeEfYyENZ7sk2l1NZG22KLg8D9w8&s=10",Cricket {English}
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/v3Storage/assets/sa_ind_t20_tonight_horizontal_carousel-1730997767896.jpg", Cricket {हिन्दी 4k}
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/ygnxsgcfxug8anv1sd4q6/20241107_190346.jpg?rlkey=2g67b3q6ulvossjs1irsn4kk9&st=hxpu4qgk&dl=1",⊙⁠ Fancode ⊙
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomI8g9R3fPmjrQDkw3YudbwPkIa-HCZ3B9A&s",Star Sports
+https://vkvsd21.okcdn.ru/hls/7514076023338.m3u8/sig/PZsFwlVc1oA/expires/1732321058863/srcIp/139.84.172.25/urls/45.136.21.62/clientType/13/srcAg/CHROME/mid/8777098930986/video.m3u8?p
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomI8g9R3fPmjrQDkw3YudbwPkIa-HCZ3B9A&s",Star Sports 2
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
 
