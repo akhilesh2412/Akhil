@@ -1,99 +1,29 @@
+#EXTINF:-1 tvg-id="ts24" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/rcjcn1i8vioaw1kojw0hc/Picsart_24-10-30_20-57-41-266.png?rlkey=1lm2b0k7qicx2scno7rkyqp8j&st=76135saj&dl=1",Live Cricket 
+https://vkvsd70.okcdn.ru/cmaf/7352464509671/sig/gycaV0kI_eQ/expires/1732332208963/srcIp/223.177.172.9/urls/185.226.52.93/clientType/13/srcAg/CHROME_ANDROID/mid/8622454746087/get/dash_8622454746087.jClvLVzhzp4.mpd
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/2se7xha966twh0h027sn9/IMG_20241112_193249_550.jpg?rlkey=ieo3fe5lmpw0s7c6cj2zn0bpo&st=1mwp3281&dl=1",BGT {हिन्दी} Live
+
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Sports" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj42Zcayh5E7DRgB1tAim-Dk1o3yObr8-zKw&usqp=CAU",Cricbuzz Live 
 
 
 
 
 
+#EXTINF:-1 tvg-id="ts24" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jiocinema.png",Cricket 24×7
+https://live.drmlive-02.workers.dev/jc/2001.m3u8
+
+#EXTINF:-1 tvg-id="ts980" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png", Sports 18 (Hindi)
+https://live.drmlive-02.workers.dev/jc/1998.m3u8
 
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTINF:-1 tvg-id="ts24" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/aejb14rsn6dbwusyha2t8/20240612_204944.png?rlkey=a21qv2mip3j22dofky03modrr&st=6sqmiajd&dl=1",Sky Sports Cricket
 
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
-#EXTINF:-1 tvg-id="43" tvg-logo="https://www.dropbox.com/scl/fi/j0ucw13sk0qpl2tms5d45/20240720_215427.jpg?rlkey=72l2ifh505i7xa4h9j3ssgg6t&dl=1" group-title="Movies", Tech2world 
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM/video.m3u8
+#EXTINF:-1 tvg-id="ts24" group-title="Akhilesh" tvg-language="Hindi" tvg-logo="https://www.dropbox.com/scl/fi/iwo1mnr6c7szofwhh39nq/20241012_200451.png?rlkey=ya33sdnhe5semuhx2qotr9ztx&st=ldbx6vyz&dl=1", Cricket Live 3
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYV9ICSfxjx5ldmJzQMri5ToYjTgQVSEndWE0a_QDw8sgr4Pivv7bE_VQ&s=10" group-title="Movies",[60FPS] Ghostbusters: Afterlife (2021)
-https://pixeldra.in/api/file/ZKrVsS3K?download
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB6Gln7Vd5vB2nAP6aNbuBQ1NwzItNfR2XPg&usqp=CAU" group-title="Movies",[60FPS] Death on the Nile (2022)
-https://pixeldra.in/api/file/WpxAZ9WV?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2fA9P6VYGpbjIa2XEh94IyKFHCti9sxOfg&usqp=CAU" group-title="Movies",[60FPS] Uncharted (2022)
-https://pixeldra.in/api/file/AfjYq6rx?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqeQNeSMd6w1ROVvcPwo6EJmljFbE2KbMHQ&usqp=CAU" group-title="Movies",[60FPS] Alita: Battle Angel (2019) 
-https://pixeldra.in/api/file/F1xsQLkB?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKS_sAkQSAKQrqhxEMHKfsIicNbP0VHGctz32bTStXkQFDUqM5A5ijL8&s=10" group-title="Movies",[60FPS] Beauty And The Beast (2017)
-https://pixeldra.in/api/file/L1ABUvXk?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNqyN2aEs_UMYWqItrwqCh3dQBzRau_xHXA&usqp=CAU" group-title="Movies",[60FPS] Dark Shadows (2012)
-https://pixeldra.in/api/file/utsLg2tz?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICCvYTtGjkAmhtbjkc5g8E7JfzCrxtTxmbQ&usqp=CAU" group-title="Movies",[60FPS] X-Men: Apocalypse (2016)
-https://pixeldra.in/api/file/eX8eXaiH?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyregNYTrhj2GgsiGTkBvlG3XWLdsmf0UaB4LP0B8FlFpfceXv5JFVkaE&s=10" group-title="Movies",[60FPS] Infinite (2021) 
-https://pixeldra.in/api/file/bzkSh1zc?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0e8WLa9wptfdg8ls0rJGppId9WDsM9tJeKjv27tKxowIHn9X7WnAu_3T&s=10" group-title="Movies",[60FPS] Maleficent (2014)
-https://pixeldra.in/api/file/DLrstuL1?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbxcyqm1mGTjhExnob03nKiIKdZ95N3S4fg&usqp=CAU" group-title="Movies",[60FPS] Deadpool 2 (2018)
-https://pixeldra.in/api/file/NspvKKov?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamUs6NI2kvsXvRRRgd_iRC8jCqGWWVoYiCmgPTzv60Ac3ZmTv05xI7W-J&s=10" group-title="Movies",[60FPS] Pacific Rim (2013)
-https://pixeldra.in/api/file/5qhxyBQL?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1P-j1KRqQYpdU2xCOPhCSZuRlIqxXF6gMg&usqp=CAU" group-title="Movies",[60FPS] Pacific Rim 2 (2018)
-https://pixeldra.in/api/file/vZb3AezZ?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZImNQhWVzE48tzG8G9Hvr-c_X_oglpguaAXwcinogGQxDPotzz157zAvF&s=10" group-title="Movies",[60FPS] Beast (2022) 
-https://pixeldra.in/api/file/rA5qxJFW?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXExZ3qpFOp8zoBSUnkt6PREXRrHL5x8Zj82uhX3K_DY5yoZ-PYXznZ_f7&s=10" group-title="Movies",[60FPS] Captain America: The First Avenger (2011)
-https://pixeldra.in/api/file/QWhtZZBi?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/7SlILk2WMTI/maxresdefault.jpg" group-title="Movies",[60FPS] The Winter Soldier (2014)
-https://pixeldra.in/api/file/wmW6rYY1?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvu2L_Khgrq2FNA5tKn9hvqJMfh8JDtu6vg&usqp=CAU" group-title="Movies",[60FPS] Mission: Impossible 2 (2000)
-https://pixeldra.in/api/file/w7TrPyRq?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf3SY8_9VzHFh_n-MYOV9riaNa8e1cGKqF8gywphJSrNLUeX-ZNoS7gs&s=10" group-title="Movies",[60FPS] X-Men: Dark Phoenix (2019) 
-https://pixeldra.in/api/file/6gq9DeoS?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTYnwZ83YvkiItc-f8paStnJTyLih6C5bFQ&usqp=CAU" group-title="Movies",[60FPS] Prey (2022) 
-https://pixeldra.in/api/file/TiXV7jQo?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6l85fphrIL6E9rv3sq64kUB5n_VBDc1Fl4w&usqp=CAU" group-title="Movies",[60FPS] The Fast and the Furious (2001)
-https://pixeldra.in/api/file/gDzPhvvR?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2u4oSC9HNbLoMIgRrfkAaw9EOizIWVwras8WFtQ8gwbI-5ZYwFUtDMU&s=10" group-title="Movies",[60FPS] 2 Fast 2 Furious (2003)
-https://pixeldra.in/api/file/Y4aoPzKT
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyk3bULXyDPOofahY8DzZzl4S9ODwtxGInxg&usqp=CAU" group-title="Movies",[60FPS] Tokyo Drift (2006)
-https://pixeldra.in/api/file/jrZunxBM?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfM2D_JFMPpEAZzWvqCsMPYgXyPeIcNE2AeLmX1lkGfXJIVYV4ZBV_aV0x&s=10" group-title="Movies",[60FPS] Fast & Furious (2009)
-https://pixeldra.in/api/file/bz7H1xCA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz937-hHgVb7XLFzTwj1rlJwRPsd_8mdplbw&usqp=CAU" group-title="Movies",[60FPS] Fast & Furious 6 (2013)
-https://pixeldra.in/api/file/dQ7YQNwc?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGfcpbevf8qRLx9TrodPFt0to6W2qXAwdEg&usqp=CAU" group-title="Movies",[60FPS] Fast & Furious 7 (2015)
-https://pixeldra.in/api/file/VHs8y5gh?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4-1kZFTkBz8kEa2uJww_CNHaHxj0bXu2CQ&usqp=CAU" group-title="Movies",[60FPS] Fast & Furious 8 (2018) 
-https://pixeldra.in/api/file/6JuoEzjh?download
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuN2ma9FWQedmc1MVMyWoJFPpCuWilAZloBQ&usqp=CAU" group-title="Movies",[60FPS] Hobbs and Shaw (2019)
-https://pixeldra.in/api/file/69pLaHmq?download
